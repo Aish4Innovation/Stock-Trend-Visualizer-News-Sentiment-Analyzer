@@ -16,11 +16,16 @@ Features
 <img width="1710" height="891" alt="image" src="https://github.com/user-attachments/assets/f44cee19-f483-40f0-9725-ee8cea7454ce" />
 
 📰 Fetch latest news headlines about the company
+
 😊 Analyze positive / neutral / negative sentiment from the news
 🚦 Traffic-Light Indicator:
+
 🟢 Buy (positive news + uptrend)
+
 🔴 Sell (negative news + downtrend)
+
 🟡 Hold (mixed signals)
+
 💰 “If you had invested ₹10,000 last year…” simulator
 
 <img width="988" height="806" alt="image" src="https://github.com/user-attachments/assets/6ff9d905-fba5-4034-9c14-6579f38dc18a" />
